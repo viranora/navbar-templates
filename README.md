@@ -14,13 +14,7 @@
 
 <br>
 
-## 🎨 About This Gallery
 
-Hi, I'm Nora. 👋 I find standard navigation bars functional, but often lacking personality. This gallery is my experimental space to push the limits of what a navbar can be, focusing on fluid animations, unique interactions, and distinct visual themes using **React**, **Tailwind CSS**, and **Framer Motion**.
-
-Dive into the experiments below to see different approaches to navigation design.
-
-<br>
 
 ## 🚀 Core Technologies
 
