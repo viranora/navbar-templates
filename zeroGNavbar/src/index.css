@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Uzay arka planı */
+  @apply bg-space-bg text-gray-300; 
+  /* İsteğe bağlı yıldız deseni */
+  /* @apply bg-stars; */
+  min-height: 200vh; 
+  overflow-x: hidden; /* Küreler kenardan taşmasın */
+}

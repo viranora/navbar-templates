@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Devre kartı rengi */
+  @apply bg-circuit-board text-gray-400; 
+  min-height: 200vh; 
+}
