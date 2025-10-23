@@ -42,7 +42,7 @@ Dive into the experiments below to see different approaches to navigation design
 
 
 
-* ➡️ **[View Details & Code (`/holographic-navbar/README.md`)](./holographic-navbar/README.md)** 
+* ➡️ **[View Details & Code (`/holographicNavbar/README.md`)](./holographicNavbar/README.md)** 
 
 ---
 
@@ -52,7 +52,7 @@ Dive into the experiments below to see different approaches to navigation design
 * **Key Techniques:** `variants`, `staggerChildren`, Tailwind `keyframes`/`animation`, custom components (`GlitchText`).
 
 
-* ➡️ **[View Details & Code (`/kinetic-navbar/README.md`)](./kinetic-navbar/README.md)** 
+* ➡️ **[View Details & Code (`/kineticNavbar/README.md`)](./kineticNavbar/README.md)** 
 ---
 
 ### 3. Zero-G Orbs Navbar
@@ -61,7 +61,7 @@ Dive into the experiments below to see different approaches to navigation design
 * **Key Techniques:** `useSpring`, `useMotionValue`, distance calculation for interaction, physics-based animation, `useEffect` for complex logic.
 
 
-* ➡️ **[View Details & Code (`/zero-g-navbar/README.md`)](./zero-g-navbar/README.md)** 
+* ➡️ **[View Details & Code (`/zeroGNavbar/README.md`)](./zeroGNavbar/README.md)** 
 
 ---
 
