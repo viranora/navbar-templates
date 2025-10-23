@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Koyu arka plan */
+  @apply bg-gray-900 text-gray-200; 
+  /* Kaydırma çubuğunu test etmek için uzun içerik */
+  min-height: 200vh; 
+}
