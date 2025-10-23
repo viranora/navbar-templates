@@ -1,4 +1,7 @@
-# Navbar Templates
+<div align="center">
+  <h1>Navbar Templates</h1>
+</div>
+
 
 <br>
 
