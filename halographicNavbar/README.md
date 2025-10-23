@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="src/assets/Ekran Resmi 2025-10-23 19.05.00.png" alt="Holographic Ribbon Navbar Demo" width="600"/>
-  <p><em>(Replace placeholder with actual visual preview)</em></p>
+  
 </div>
 
 <br>
